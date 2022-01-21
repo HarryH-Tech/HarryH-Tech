@@ -2,6 +2,9 @@
 
 ![Harry's github stats](https://github-readme-stats.vercel.app/api?username=HarryH-Tech&show_icons=true)
 
+I'm currently working on personal projects, planning to begin looking for work as a web developer toward the middle of 2022! 😀
+
+Currently trying to learn Typescript and improve my skills with React and AWS 🤓
 
 <!--
 **HarryH-Tech/HarryH-Tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
