@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi! 👋😁
 
 ![Harry's github stats](https://github-readme-stats.vercel.app/api?username=HarryH-Tech&count_private=true&show_icons=true&theme=dark)
 
