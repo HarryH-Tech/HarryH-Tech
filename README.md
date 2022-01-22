@@ -2,7 +2,7 @@
 
 ![Harry's github stats](https://github-readme-stats.vercel.app/api?username=HarryH-Tech&count_private=true&show_icons=true&theme=dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HarryH-Tech)](https://github.com/HarryH-Tech/github-readme-stats)
+<! -- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HarryH-Tech)](https://github.com/HarryH-Tech/github-readme-stats) -->
 
 
 I'm currently working on personal projects, planning to begin looking for work as a web developer toward the middle of 2022! 😀
